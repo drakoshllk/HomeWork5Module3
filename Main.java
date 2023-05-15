@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        MyHashSet<String > students = new MyHashSet<>();
+        MyHashSet<String> students = new MyHashSet<>();
         students.put("Marina");
         students.put("Dmitry");
         students.put("Alina");
